@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "dgSpecHash": "WefuykGNmmOGoVkrFNgDmNd/IifmOO6MQHvOo9vXAGn+UiHCsdLcWTK1Qp86zAMucp1PKunuPcmfCZtiTc61lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nerif\\source\\repos\\ApiVeiculo\\ApiVeiculo\\ApiVeiculo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nerif\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\identityserver4.aspnetidentity\\4.1.2\\identityserver4.aspnetidentity.4.1.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnet.webapi.client\\4.0.20710\\microsoft.aspnet.webapi.client.4.0.20710.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnet.webapi.core\\4.0.20710\\microsoft.aspnet.webapi.core.4.0.20710.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\4.0.20710\\microsoft.aspnet.webapi.webhost.4.0.20710.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.11\\microsoft.aspnetcore.authentication.jwtbearer.5.0.11.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.11\\microsoft.entityframeworkcore.analyzers.5.0.11.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.13.1\\microsoft.identitymodel.jsonwebtokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.identitymodel.logging\\6.13.1\\microsoft.identitymodel.logging.6.13.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.13.1\\microsoft.identitymodel.tokens.6.13.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.net.http\\2.0.20710\\microsoft.net.http.2.0.20710.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.web.infrastructure\\1.0.0\\microsoft.web.infrastructure.1.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mongodb.driver\\2.13.2\\mongodb.driver.2.13.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mongodb.driver.core\\2.13.2\\mongodb.driver.core.2.13.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle\\5.6.0\\swashbuckle.5.6.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\swashbuckle.core\\5.6.0\\swashbuckle.core.5.6.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.13.1\\system.identitymodel.tokens.jwt.6.13.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\webactivatorex\\2.0.0\\webactivatorex.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.AspNet.WebApi.Client 4.0.20710' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.AspNet.WebApi.Client",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.AspNet.WebApi.Core 4.0.20710' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.AspNet.WebApi.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.AspNet.WebApi.WebHost 4.0.20710' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.AspNet.WebApi.WebHost",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Net.Http 2.0.20710' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.Net.Http",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.Web.Infrastructure 1.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.Web.Infrastructure",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Swashbuckle.Core 5.6.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Swashbuckle.Core",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'WebActivatorEx 2.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "WebActivatorEx",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

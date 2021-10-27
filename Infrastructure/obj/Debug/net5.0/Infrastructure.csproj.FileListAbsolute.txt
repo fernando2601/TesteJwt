@@ -1,0 +1,15 @@
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\Domain.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\bin\Debug\net5.0\Domain.pdb
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb

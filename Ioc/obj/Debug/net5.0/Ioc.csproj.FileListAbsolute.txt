@@ -1,0 +1,11 @@
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\bin\Debug\net5.0\Ioc.deps.json
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\bin\Debug\net5.0\Ioc.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\bin\Debug\net5.0\ref\Ioc.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\bin\Debug\net5.0\Ioc.pdb
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.AssemblyInfoInputs.cache
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.AssemblyInfo.cs
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.csproj.CoreCompileInputs.cache
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\ref\Ioc.dll
+C:\Users\nerif\source\repos\ApiVeiculo\Ioc\obj\Debug\net5.0\Ioc.pdb
